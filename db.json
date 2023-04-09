@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "Md Aidul Islam",
+      "email": "aidul5613@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Samaira Sama",
+      "email": "morioumkhadiza@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Sadman Sakib",
+      "email": "sadmansakib@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Fahim",
+      "email": "fahim@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}

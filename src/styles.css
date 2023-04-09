@@ -33,3 +33,7 @@ body {
     border-radius: 5px;
 }
 
+.error-p {
+    color: red;
+}
+

@@ -54,3 +54,12 @@
     border-bottom-right-radius: 5px;
     cursor: pointer;
 }
+
+h1 a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+ul li a {
+    cursor: pointer;
+}

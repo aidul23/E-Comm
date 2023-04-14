@@ -25,7 +25,7 @@ export class SellerService {
 
   reloadSeller() {
     if(localStorage.getItem('seller')) {
-      localStorage.removeItem('seller');
+      // localStorage.removeItem('seller');
       this.isSellerLoggedIn.next(true);
       this.router.navigate(['seller-home']);
     }
@@ -45,4 +45,6 @@ export class SellerService {
       }
     })
   }
+
+  
 }

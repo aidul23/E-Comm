@@ -24,5 +24,52 @@
       "password": "12345",
       "id": 4
     }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "100000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Description",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
+      "id": 1
+    },
+    {
+      "name": "Realme 7 pro",
+      "price": "24000",
+      "color": "Blue",
+      "category": "Mobile",
+      "description": "mobile phone of realme",
+      "image": "https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2020/12/Realme-7-Pro-500x500-1-500x500.png",
+      "id": 2
+    },
+    {
+      "name": "samsang a51",
+      "price": "50000",
+      "color": "Violet",
+      "category": "Mobile",
+      "description": "Samsung mobile",
+      "image": "https://www.mobileghor.com/wp-content/uploads/2020/10/Samsung-Galaxy-A51-Blue.jpg",
+      "id": 3
+    },
+    {
+      "name": "Google Pixel 4a",
+      "price": "40000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Google mobile",
+      "image": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Google-Pixel-4a-Just-Black.jpg",
+      "id": 4
+    },
+    {
+      "name": "Iphone 13",
+      "price": "90000",
+      "color": "Grey",
+      "category": "Mobile",
+      "description": "Apple mobile",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
+      "id": 5
+    }
   ]
 }

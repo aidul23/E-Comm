@@ -40,27 +40,27 @@
       "price": "24000",
       "color": "Blue",
       "category": "Mobile",
-      "description": "mobile phone of realme",
+      "description": "Mobile phone of realme",
       "image": "https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2020/12/Realme-7-Pro-500x500-1-500x500.png",
       "id": 2
     },
     {
-      "name": "samsang a51",
-      "price": "50000",
-      "color": "Violet",
-      "category": "Mobile",
-      "description": "Samsung mobile",
-      "image": "https://www.mobileghor.com/wp-content/uploads/2020/10/Samsung-Galaxy-A51-Blue.jpg",
-      "id": 3
-    },
-    {
       "name": "Google Pixel 4a",
-      "price": "40000",
+      "price": "42000",
       "color": "Black",
       "category": "Mobile",
       "description": "Google mobile",
       "image": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Google-Pixel-4a-Just-Black.jpg",
       "id": 4
+    },
+    {
+      "name": "ASUS VivoBook 15 X515EA",
+      "price": "78000",
+      "color": "Peacock Blue",
+      "category": "Laptop",
+      "description": "Laptop",
+      "image": "https://imaginecomputerbd.com/wp-content/uploads/vivobook-15-10-500x500-2.jpg",
+      "id": 5
     }
   ]
 }

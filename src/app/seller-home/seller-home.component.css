@@ -14,3 +14,8 @@ img {
     width: 100px;
     height: 100px;
 }
+
+.adjust-update-link {
+    margin-left: 15px;
+    margin-right: 10px;
+}

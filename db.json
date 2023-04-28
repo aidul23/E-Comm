@@ -61,15 +61,6 @@
       "description": "Google mobile",
       "image": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Google-Pixel-4a-Just-Black.jpg",
       "id": 4
-    },
-    {
-      "name": "Iphone 13",
-      "price": "90000",
-      "color": "Grey",
-      "category": "Mobile",
-      "description": "Apple mobile",
-      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
-      "id": 5
     }
   ]
 }

@@ -31,18 +31,9 @@
       "price": "100000",
       "category": "Mobile",
       "color": "Black",
-      "description": "Description",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.",
       "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
       "id": 1
-    },
-    {
-      "name": "Realme 7 pro",
-      "price": "24000",
-      "color": "Blue",
-      "category": "Mobile",
-      "description": "Mobile phone of realme",
-      "image": "https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2020/12/Realme-7-Pro-500x500-1-500x500.png",
-      "id": 2
     },
     {
       "name": "Google Pixel 4a",
@@ -61,6 +52,15 @@
       "description": "Laptop",
       "image": "https://imaginecomputerbd.com/wp-content/uploads/vivobook-15-10-500x500-2.jpg",
       "id": 5
+    },
+    {
+      "name": "MacBook Air",
+      "price": "100000",
+      "color": "Gray",
+      "category": "Laptop",
+      "description": "Laptop",
+      "image": "https://itechboxbd.com/wp-content/uploads/2023/02/Screenshot-2022-06-28-at-00.47.39-2.png",
+      "id": 6
     }
   ]
 }

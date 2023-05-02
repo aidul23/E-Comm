@@ -29,9 +29,9 @@
     {
       "name": "Iphone 14",
       "price": "100000",
-      "category": "Mobile",
       "color": "Black",
-      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.",
+      "category": "Mobile",
+      "description": "It is a long established fact that a reader will be distracted by the readable.",
       "image": "https://adminapi.applegadgetsbd.com/storage/media/large/iPhone-14-Pro-Max-9907.jpg",
       "id": 1
     },
@@ -61,6 +61,24 @@
       "description": "Laptop",
       "image": "https://itechboxbd.com/wp-content/uploads/2023/02/Screenshot-2022-06-28-at-00.47.39-2.png",
       "id": 6
+    },
+    {
+      "name": "Nintendo",
+      "price": "340000",
+      "color": "Purple",
+      "category": "Gadget",
+      "description": "Nintendo",
+      "image": "https://assets-prd.ignimgs.com/2022/08/26/switch-splatoon3-1661532694688.jpg",
+      "id": 7
+    },
+    {
+      "name": "PS5",
+      "price": "49000",
+      "color": "White",
+      "category": "Game",
+      "description": "Play Station ",
+      "image": "https://i0.wp.com/image.smythstoys.com/original/desktop/191259_2.jpg?w=800&ssl=1",
+      "id": 8
     }
   ]
 }

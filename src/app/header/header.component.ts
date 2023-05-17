@@ -34,8 +34,9 @@ export class HeaderComponent implements OnInit {
     });
   }
 
-  onSearch() {
-    console.log("search button click");
+  onSearch(val: string) {
+    console.log(val);
+    this.router.navigate([`search/${val}`]);
   }
 
   searchProduct(query: KeyboardEvent) {
